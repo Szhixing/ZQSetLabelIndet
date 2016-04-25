@@ -14,7 +14,7 @@
 
 
 
-掉用[ZQSetLabelIndet SetLabel:<#(UILabel *)#> Number:<#(CGFloat)#>];方法
+调用[ZQSetLabelIndet SetLabel:<#(UILabel *)#> Number:<#(CGFloat)#>];方法
 
 
 
